@@ -13,8 +13,8 @@ OS Windows8.1 64bit
 CPU AMD A10-6700 3.70GHz  
 メモリ 4GB  
 
-IDE Visual Studio2013 Community  
-UNITY 5.1.1f  
+IDE Visual Studio2015 Community  
+UNITY 5.1.2f1  
 マークダウンエディタ Atom  
 
 ####レキシ
