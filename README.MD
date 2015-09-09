@@ -9,13 +9,13 @@ PROFILE
 
 ####開発環境
 
-OS Windows8.1 64bit  
+OS Windows10 64bit  
 CPU AMD A10-6700 3.70GHz  
 メモリ 4GB  
 
-IDE Visual Studio2013 Community  
-UNITY 5.1.1f  
-マークダウンエディタ Atom  
+IDE Visual Studio2015 Community  
+UNITY 5.2.0f3  
+マークダウンエディタ VS2015 + Web Essential Atom  
 
 ####レキシ
 
