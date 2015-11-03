@@ -14,7 +14,7 @@ CPU AMD A10-6700 3.70GHz
 メモリ 4GB  
 
 IDE Visual Studio2015 Community  
-UNITY 5.2.0f3  
+UNITY 5.2.2f1 
 マークダウンエディタ VS2015 + Web Essential Atom  
 
 ####レキシ
