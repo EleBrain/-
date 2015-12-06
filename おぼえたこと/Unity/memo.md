@@ -1,3 +1,17 @@
+
+子要素を消すとき
+foreach (Transform item in transform) {
+    Destroy(item.gameObject);
+}
+
+foreach (var item in transform) {
+にするとvarはobjectになる
+
+DestroyできるのはgameObject
+foreach中にDestroyしてもOK
+
+
+
 必須コンポーネント
 [RequireComponent(typeof (必須コンポーネント名))]
 public class a : MonoBehaviour {
