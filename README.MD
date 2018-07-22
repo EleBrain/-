@@ -13,9 +13,8 @@ OS Windows10 64bit
 CPU AMD A10-6700 3.70GHz  
 メモリ 4GB  
 
-IDE Visual Studio2017 Community RC
-UNITY 5.5.0p1
-マークダウンエディタ VS2015 + Web Essential Atom  
+IDE Visual Studio2017 Community
+UNITY 2018
 
 ####レキシ
 
